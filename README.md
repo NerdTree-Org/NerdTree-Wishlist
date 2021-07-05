@@ -6,13 +6,13 @@
 #### Repo for NerdTree wishlists
 
 ## What is NerdTree?
-NerdTree is an organization that is aiming to spread the knowledge of technology to Bangladeshi students
+NerdTree is an organization aiming to spread the knowledge of technology to Bangladeshi students
 
 ## Who runs NerdTree?
-NerdTree is ran by a team of Bangladeshi students
+NerdTree is run by a team of Bangladeshi students
 
-## How NerdTree will work?
-NerdTree will have a website were students or any people can register. Then they will be added to a discussion group where they can talk about technology, programming etc. NerdTree will have a big community where we will host regular contests, quiz competitions, workshops etc. NerdTree will encourage it's members to contribute to open source projects. Thus increasing their knowledge of collaborative working.
+## How NerdTree will work
+NerdTree will have a website where ~~only students~~ anyone can register. After completing the registration process, they will be added to a discussion group where they can talk about technology, programming etc. NerdTree will have a big community where we will host regular programming contests, quiz competitions, workshops etc. NerdTree will encourage it's members to contribute to open source projects. Thus increasing their knowledge of collaborative working.
 
 ## Our Mission
 
