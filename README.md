@@ -3,7 +3,7 @@
 </p>
 
 # NerdTree-Wishlist
-#### Repo for NerdTree wishlists
+#### NerdTree is coming soon! This repo is a wishlist for what will be added to NerdTree.
 
 ## What is NerdTree?
 NerdTree is an organization aiming to spread the knowledge of technology to Bangladeshi students
